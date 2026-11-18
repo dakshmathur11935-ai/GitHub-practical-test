@@ -52,3 +52,18 @@ section {
 button:hover {
     background-color: #172554;
 }
+nav {
+    background-color: #1e40af;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: yellow;
+}

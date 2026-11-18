@@ -25,4 +25,4 @@ This is my personal portfolio website created using HTML, CSS and JavaScript.
 - Personal Introduction
 - Skills Section
 - Education Details
-- JavaScript InteractionS
+- JavaScript Interaction
